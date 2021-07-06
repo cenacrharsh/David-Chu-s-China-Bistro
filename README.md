@@ -2,7 +2,7 @@
 
 ## [DEMO](https://cenacrharsh.github.io/David-Chu-s-China-Bistro/)
 
-<img align=center margin=auto src="./ss.png">
+<img align=center margin='auto' src="./ss.png">
 
 #### Capstone Project of the course 
 
