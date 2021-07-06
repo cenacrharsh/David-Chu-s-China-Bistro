@@ -3,5 +3,5 @@
 ## [DEMO](https://cenacrharsh.github.io/David-Chu-s-China-Bistro/)
 Capstone Project of the course 
 
-### [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?)
-## by Johns Hopkins University
+## [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?)
+### by Johns Hopkins University
